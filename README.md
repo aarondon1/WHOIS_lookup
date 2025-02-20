@@ -1,3 +1,3 @@
 # WHOIS_lookup
 
-simple WHOIS lookup script in Python 
+simple WHOIS lookup script in Python reference
